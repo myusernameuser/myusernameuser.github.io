@@ -1,0 +1,583 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.6",
+    "versionPublish": "2.9.6",
+    "name": "Ювелирные магазины Алмаз и Изумруд | Воткинск",
+    "favicon": "",
+    "google-analytics": "<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter22689994 = new Ya.Metrika({\r\n                    id:22689994,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/22689994\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->\r\n\r\n<!-- googleanalitics -->\r\n\t\t\t<script>\r\n\t\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n\t\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n\t\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n\t\t\t})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n\t\t\tga('create', 'UA-41827194-2', 'auto');\r\n\t\t\tga('send', 'pageview');\r\n\r\n\t\t\t</script>\r\n<!-- /googleanalitics -->",
+    "publishType": "local",
+    "publishPath": "file:///D:/_%D0%9E%D0%BB%D0%B5%D0%B3/Dropbox/web/uveliry_com",
+    "path": "file:///D:/_%D0%9E%D0%BB%D0%B5%D0%B3/uveliry_com",
+    "screenshot": "screenshot.png",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Ювелирные магазины Алмаз и Изумруд | Воткинск",
+        "meta_descr": "Официальный сайт сети ювелирных магазинов Алмаз и Изумруд. Здесь Вы узнаете о наших акциях, скидках, как нас найти и подписаться на новости. Заходите, будем рады.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo260x260-260x260-83.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "http://uveliry.com",
+              "alt": "Логотип сайта uveliry.com магазинов Алмаз и Изумруд в Воткинске",
+              "title": "Логотип сайта uveliry.com",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"http://uveliry.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><p><br></p><p>UVELIRY.COM<br>Алмаз и Изумруд</p></a>&nbsp;&nbsp;&nbsp;&nbsp;",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">+7-34145-5-22-92</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">ГЛАВНАЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-14\">О НАС</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-12\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1920x1200-devushka-1920x1200-98.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#ffffff",
+                "showTitle": true,
+                "title": "УКРАШЕНИЯ<br>ЛУЧШИХ<br>ЗАВОДОВ<br>РОССИИ",
+                "showText": true,
+                "text": "Большой выбор украшений<br>из золота, серебра, драгоценных<br>и полудрагоценных камней<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/kolco-600x400-20.jpg",
+                "contentAlign": "left",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#ffffff",
+                "showTitle": true,
+                "title": "Рассрочка<br><span style=\"font-weight: normal;\">без участия банков</span>",
+                "showText": true,
+                "text": "только в салонах \"АЛМАЗ\" И \"ИЗУМРУД\"<br>+7-982-120-00-55<br>+7(34145) 5-22-92<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/56e79d1bb0901-6000x5450-95.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Обручальные кольца<br><span style=\"font-weight: normal;\">со скидкой </span>55%",
+                "showText": true,
+                "text": "в широком ассортименте по самым современным технологиям",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-11",
+          "articleLayout": false
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-14",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1ec3-256-256x256-26.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "uveliry.com",
+              "alt": "Широкий ассортимент ювелирных украшений в магазинах Алмаз и Изумруд г. Воткинск",
+              "title": "Широкий ассортимент ювелирных украшений в магазинах Алмаз и Изумруд г. Воткинск",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "ШИРОКИЙ АССОРТИМЕНТ",
+          "caption1": "Широкий ассортимент ювелирных украшений",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1f11-256-256x256-53.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Прямые поставки ювелирных изделий с заводов-изготовителей в магазины Алмаз и Изумруд",
+              "title": "Прямые поставки ювелирных изделий с заводов-изготовителей в магазины Алмаз и Изумруд",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "ПРЯМЫЕ ПОСТАВКИ",
+          "caption2": "Прямые поставки с заводов изготовителей",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1cd2-256-256x256-21.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Доступные цены на ювелирные украгения в Воткинске, скидки, кредит, дисконтные программы",
+              "title": "Доступные цены на ювелирные украгения в Воткинске",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "ДОСТУПНЫЕ ЦЕНЫ",
+          "caption3": "Доступные цены, скидки и подарки",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1f00-256-256x256-35.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Подарочные карты на любой случай, на любую сумму",
+              "title": "Подарочные карты на любой случай, на любую сумму",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "ПОДАРОЧНЫЕ КАРТЫ",
+          "caption4": "Подарочные карты на любую сумму",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1cd2-256-256x256-3.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "uveliry.com/rass",
+              "alt": "Рассрочка без банков на ювелирные украшения в Воткинске",
+              "title": "Рассрочка без участия банков на ювелирные украшения в Воткинске",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "РАССРОЧКА И КРЕДИТ",
+          "caption5": "Гибкие условия <a href=\"https://uveliry.com/rass\" target=\"_blank\">рассрочки</a> и кредита",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/linea-1ec3-256-256x256-74.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "скупказолота.орг",
+              "alt": "Обмен старых ювелирных украшений на новые, скупка",
+              "title": "Обмен старых ювелирных украшений на новые, скупка",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "ОБМЕН И СКУПКА",
+          "caption6": "Обмен старых ювелирных украшений на новые. <a href=\"http://скупказолота.орг\" target=\"_blank\">Скупка</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright (c) 1998-2016 Магазины Алмаз и Изумруд &nbsp;|&nbsp;Воткинск &nbsp;&nbsp;<a href=\"http://uveliry.com\">uveliry.com</a><a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\"></a></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/diamond-700x700-700x700-17.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "Телефоны для справок:<br>+7-982-120-00-55<br>+7(34145)5-22-92",
+          "text": "Наши специалисты ответят на Ваш вопрос",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"form.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ОБРАТНЫЙ ЗВОНОК</a>"
+        },
+        {
+          "_name": "form2",
+          "_anchor": "form2-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "ПОДПИШИТЕСЬ НА НАШИ НОВОСТИ",
+          "form": {
+            "action": "sale@uveliry.com",
+            "alerts": {
+              "success": "Спасибо за подписку!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Введите Ваш адрес Email..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ПОДПИСАТЬСЯ</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-12",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "КОНТАКТЫ",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/almazshop-300x200-300x200-57.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Фото ювелирного салона Алмаз",
+              "title": "Ювелирный салон Алмаз",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "АЛМАЗ",
+          "caption1": "г. Воткинск, ул. Ст. Разина, 11<br>тел. +7 (34145) 5-22-92<br>моб. +7-982-120-00-55<br>Пн-Пт: 10:00–19:00<br>Сб-Вс: 10:00–16:00<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/izumrudshop-300x200-300x200-25.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Фото ювелирного салона Изумруд",
+              "title": "Ювелирный салон Изумруд",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "ИЗУМРУД",
+          "caption2": "г. Воткинск, ул. Мира, 3<br>тел. +7 (34145) 4-71-56<br>Пн-Пт: 10:00–19:00<br>Сб-Вс: 10:00–16:00<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iceshop-1-300x200-300x200-49.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Фото ювелирного салона Алмаз в ТРЦ Айсберг",
+              "title": "Ювелирный салон Алмаз в ТРЦ Айсберг",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "АЛМАЗ",
+          "caption3": "г. Воткинск, ул. 1 Мая, 77<br>в ТРЦ Айсберг<br>тел. +7 (34145) 6-90-05<br>Пн-Вс: 09:30–20:00<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#9c9c9c"
+            }
+          },
+          "_anchor": "contacts1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo260x260-260x260-83-128x128-43.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "http://uveliry.com",
+              "alt": "Логотип сети ювелирных салонов Алмаз и Изумруд",
+              "title": "uveliry.com",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "АДРЕС<br>Удмуртская Республика,<br>г. Воткинск,<br>ул. Ст. Разина, 11<br>",
+          "text2": "КОНТАКТЫ<br>Email: sale@uveliry.com<br>Телефон: +7 (34145) 5-22-92<br>Сотовый: +7 (982) 120-00-55<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>ССЫЛКИ</b></p><p class=\"mbr-contacts__text\"><b style=\"line-height: 1.7em;\"><a href=\"http://vk.com/uveliry_com\" target=\"_blank\">Вконтакте</a></b><br></p><p class=\"mbr-contacts__text\"><b><a href=\"https://ok.ru/group/52251260944531\">Одноклассники</a></b></p><p class=\"mbr-contacts__text\"><a href=\"http://скупказолота.орг\"><b>Скупка</b></a><b><a href=\"http://скупказолота.орг\"></a></b></p><p class=\"mbr-contacts__text\"><b><a href=\"https://uveliry.com/rass\" target=\"_blank\">Рассрочка</a></b></p>"
+        }
+      ]
+    },
+    "form.html": {
+      "settings": {
+        "title": "Заказ обратного звонка",
+        "meta_descr": "Заказать обратный звонок от менеджера сайта uveliry.com и задать интересующие вопросы."
+      },
+      "components": [
+        {
+          "_name": "form2",
+          "_anchor": "form2-4",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ЗАКАЗАТЬ ОБРАТНЫЙ ЗВОНОК",
+          "form": {
+            "action": "sale@uveliry.com",
+            "alerts": {
+              "success": "Наш менеджер позвонит Вам в ближайшее время."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Введите Ваш номер телефона..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ЗАКАЗАТЬ ЗВОНОК</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-10",
+          "text": "<p><a href=\"index.html\">На главную</a></p>"
+        }
+      ]
+    }
+  }
+}
